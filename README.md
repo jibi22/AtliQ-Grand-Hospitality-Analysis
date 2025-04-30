@@ -6,7 +6,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
  <b>Key Dashboards:</b>
 
- <a href="https://app.powerbi.com/view?r=eyJrIjoiMjljMWFmODQtNWE5Yi00ZjYyLWI2M2QtYjVhNTMxZTYzNDc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"><h2>Live Dashboard</h2></a>
+<b>Live Dashboard</b> <a href="https://app.powerbi.com/view?r=eyJrIjoiMjljMWFmODQtNWE5Yi00ZjYyLWI2M2QtYjVhNTMxZTYzNDc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">Click Here</a>
  
 📌 Property View – A deep dive into hotel property view with dynamic visuals, property insights, and booking by property name and room class.
 
